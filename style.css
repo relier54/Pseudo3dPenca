@@ -1,0 +1,14 @@
+html,
+body {
+  background: #000;
+  font-family: 'Courier New', Courier, monospace;
+  color: #ff4422;
+  font-size: 14px;
+}
+
+canvas {
+  display: block;
+  margin: 0 auto;
+  background: #222222;
+  margin-top: 10px;
+}
